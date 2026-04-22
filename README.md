@@ -3,7 +3,7 @@ Setup raspberrypi with side.
 
 run on pi:
 ```
-curl -sSL https://raw.githubusercontent.com/florianthepro/kiosk-dashbourd/refs/heads/main/setup-pi | sudo bash
+curl -sSL https://raw.githubusercontent.com/florianthepro/kiosk-pi/refs/heads/main/setup.sh | sudo bash
 ```
 
 To Set raspberrypi hdmi on/off:
